@@ -1,6 +1,6 @@
 <div align="center">
 
-# LitAssist
+# litassist-public
 
 **Platform otomasi riset literatur akademik untuk mahasiswa skripsi & peneliti**
 
@@ -16,9 +16,9 @@
 
 ---
 
-## What is LitAssist?
+## What is litassist-public?
 
-LitAssist is a full-stack web application that automates the academic literature review process. Instead of manually searching across multiple databases, downloading papers one by one, and organizing them in spreadsheets — LitAssist does it all in one click.
+litassist-public is a full-stack web application that automates the academic literature review process. Instead of manually searching across multiple databases, downloading papers one by one, and organizing them in spreadsheets — litassist-public does it all in one click.
 
 **Built for:** Indonesian thesis students and academic researchers who need to collect and manage journal references efficiently.
 
@@ -44,22 +44,22 @@ LitAssist is a full-stack web application that automates the academic literature
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/ridhoajaaa/litassist/main/assets/landing-hero.png)
+![Landing Page](https://raw.githubusercontent.com/ridhoajaaa/litassist-public/main/assets/landing-hero.png)
 
 ### Journals Dashboard
-![Journals Dashboard](https://raw.githubusercontent.com/ridhoajaaa/litassist/main/assets/dashboard.png)
+![Journals Dashboard](https://raw.githubusercontent.com/ridhoajaaa/litassist-public/main/assets/dashboard.png)
 
 ### Personal Library
-![Library](https://raw.githubusercontent.com/ridhoajaaa/litassist/main/assets/library.png)
+![Library](https://raw.githubusercontent.com/ridhoajaaa/litassist-public/main/assets/library.png)
 
 ### AI Summary (Premium)
-![AI Summary](https://raw.githubusercontent.com/ridhoajaaa/litassist/main/assets/ai-summary.png)
+![AI Summary](https://raw.githubusercontent.com/ridhoajaaa/litassist-public/main/assets/ai-summary.png)
 
 ### Statistics & Analytics
-![Stats](https://raw.githubusercontent.com/ridhoajaaa/litassist/main/assets/stats.png)
+![Stats](https://raw.githubusercontent.com/ridhoajaaa/litassist-public/main/assets/stats.png)
 
 ### Pricing
-![Pricing](https://raw.githubusercontent.com/ridhoajaaa/litassist/main/assets/pricing.png)
+![Pricing](https://raw.githubusercontent.com/ridhoajaaa/litassist-public/main/assets/pricing.png)
 
 ---
 
@@ -94,7 +94,7 @@ User clicks "Start Scrape"
 
 ### CAPTCHA Handling
 
-Google Scholar aggressively blocks scrapers with CAPTCHA. LitAssist solves this with an embedded **noVNC** panel:
+Google Scholar aggressively blocks scrapers with CAPTCHA. litassist-public solves this with an embedded **noVNC** panel:
 
 1. Scraper detects CAPTCHA → pauses automatically
 2. Socket.IO notifies the frontend
@@ -121,7 +121,7 @@ Google Scholar aggressively blocks scrapers with CAPTCHA. LitAssist solves this 
 
 ## Security
 
-LitAssist has been through a full security audit:
+litassist-public has been through a full security audit:
 
 ```
 ZAP Baseline Scan:    0 FAIL  · 7 WARN (all CDN trade-offs)  ✔
@@ -175,7 +175,7 @@ Security measures implemented:
 
 ## Contact
 
-**Interested in using LitAssist or collaborating?**
+**Interested in using litassist-public or collaborating?**
 
 - Email: [alfariziridha014@gmail.com]
 - Instagram: [@idhoaf_]
